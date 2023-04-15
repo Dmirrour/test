@@ -1,0 +1,9 @@
+org\example\model\PNCirculacion.class
+org\example\Main.class
+org\example\PNCLocal.class
+org\example\beans\MySingleton.class
+org\example\beans\MySingletonLocal.class
+org\example\PNC.class
+org\example\beans\MySingletonRemote.class
+org\example\exeption\PermisoRepetidoExcepcion.class
+org\example\PNCRemote.class
